@@ -1,6 +1,8 @@
 # cloudzdevops-azure-training
 Training Materials for Azure Cloud
 
+**15/Jan/23**
+
 **Demo-1: Installing Azure PowerShell**
 
 https://docs.microsoft.com/en-us/powershell/azure/azurerm/install-azurerm-ps?view=azurermps-6.13.0
@@ -24,3 +26,17 @@ Install Azure CLI on Mac : https://learn.microsoft.com/en-us/cli/azure/install-a
 1) Azure Portal --> Search "Policy" and review available policies. Select assignment of polciy "Require a tag on resource groups" --> Assign
 
 https://learn.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+21/Jan/23
+
+Demo-1: Recource Group Lock
+
+Demo-2: Move Resource Manually
+
+Create 2 RGs --> Create a Public IP in onw RG --> Move it other RG --> Notice the Rource ID change
+
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-resource-group-and-subscription
+
+Demo-3: Move Resources using "Azure Resource Mover" tool from Azure Portal
