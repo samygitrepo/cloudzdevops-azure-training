@@ -40,3 +40,17 @@ Create 2 RGs --> Create a Public IP in onw RG --> Move it other RG --> Notice th
 https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-resource-group-and-subscription
 
 Demo-3: Move Resources using "Azure Resource Mover" tool from Azure Portal
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+22/Jan/23
+
+Demo-1: Creating a simple app service
+
+Demo-2: App service plan demo with vertical and horizontal scaling
+
+Demo-3: App service deployment slots
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+28/Jan/23
