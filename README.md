@@ -35,7 +35,7 @@ Demo-1: Recource Group Lock
 
 Demo-2: Move Resource Manually
 
-Create 2 RGs --> Create a Public IP in onw RG --> Move it other RG --> Notice the Rource ID change
+Create 2 RGs --> Create a Public IP in new RG --> Move it other RG --> Notice the Rource ID change
 
 https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/move-resource-group-and-subscription
 
