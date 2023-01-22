@@ -1,5 +1,5 @@
 # cloudzdevops-azure-training
-Training Materials for Azure Cloud
+                                    ***Training Materials for Azure Cloud***
 
 **15/Jan/23**
 
@@ -29,7 +29,7 @@ https://learn.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-m
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-21/Jan/23
+**21/Jan/23**
 
 Demo-1: Recource Group Lock
 
@@ -43,7 +43,7 @@ Demo-3: Move Resources using "Azure Resource Mover" tool from Azure Portal
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-22/Jan/23
+**22/Jan/23**
 
 Demo-1: Creating a simple app service
 
@@ -53,4 +53,4 @@ Demo-3: App service deployment slots
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-28/Jan/23
+**28/Jan/23**
