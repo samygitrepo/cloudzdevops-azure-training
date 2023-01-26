@@ -49,8 +49,26 @@ Demo-1: Creating a simple app service
 
 Demo-2: App service plan demo with vertical and horizontal scaling
 
-Demo-3: App service deployment slots
-
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 **28/Jan/23**
+
+Demo-1: App service deployment slots
+
+Demo-2: App service - Web Jobs
+https://learn.microsoft.com/en-us/azure/app-service/webjobs-create
+CRON Expression example : https://crontab.guru/examples.html
+
+Demo-3: Azure Function
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**29/Jan/23**
+
+Demo-1: Azure API APPS
+
+Demo-2: App CDN
+
+Demo-3: Azure Logic Apps
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
