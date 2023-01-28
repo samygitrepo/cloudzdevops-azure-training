@@ -73,5 +73,7 @@ Demo-2: Azure CDN
 https://learn.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint
 
 Demo-3: Azure Logic Apps
+https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
