@@ -66,8 +66,11 @@ Demo-3: Azure Function
 **29/Jan/23**
 
 Demo-1: Azure API APPS
+https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts
+https://learn.microsoft.com/en-us/azure/api-management/import-and-publish
 
-Demo-2: App CDN
+Demo-2: Azure CDN
+https://learn.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint
 
 Demo-3: Azure Logic Apps
 
