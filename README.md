@@ -85,8 +85,10 @@ Demo-1 : Creating VNET & Subnets
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**11/Feb/23**
+**11/Feb/23 & 12/Feb/23**
 
 DNS basics : 
 Demo-1 : VM creation
-Demo-2 : Azure VNET Peering
+Demo-2 : Azure VM Architecture
+https://learn.microsoft.com/en-us/azure/virtual-machines/overview
+Demo-3 : Azure VM Scale sets
