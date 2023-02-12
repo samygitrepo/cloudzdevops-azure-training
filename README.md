@@ -85,10 +85,23 @@ Demo-1 : Creating VNET & Subnets
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-**11/Feb/23 & 12/Feb/23**
+**11/Feb/23**
 
-DNS basics : 
+DNS Basics : https://cloudzdevops-my.sharepoint.com/:b:/g/personal/support_cloudzdevops_onmicrosoft_com/ETigJnIZdQVJsAJjU2Smy6kBPPuJzwFccgJzcnYkWYSZVQ?e=W2vfSz
+Azure VM Architecture : https://learn.microsoft.com/en-us/azure/virtual-machines/overview
 Demo-1 : VM creation
-Demo-2 : Azure VM Architecture
-https://learn.microsoft.com/en-us/azure/virtual-machines/overview
-Demo-3 : Azure VM Scale sets
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**12/Feb/23**
+
+Azure VM Availability Set : 
+https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
+
+Fault Domain & Update Domain : 
+https://www.c-sharpcorner.com/article/availability-set-fault-domains-and-update-domains-in-azure-virtual-machie/
+https://www.rupeshtiwari.com/azure-update-domain-vs-fault-domain/
+
+Demo-1 : Azure VM Scale set - https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-create-vmss
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
