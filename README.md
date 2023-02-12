@@ -88,8 +88,10 @@ Demo-1 : Creating VNET & Subnets
 **11/Feb/23**
 
 DNS Basics : https://cloudzdevops-my.sharepoint.com/:b:/g/personal/support_cloudzdevops_onmicrosoft_com/ETigJnIZdQVJsAJjU2Smy6kBPPuJzwFccgJzcnYkWYSZVQ?e=W2vfSz
+
 Azure VM Architecture : https://learn.microsoft.com/en-us/azure/virtual-machines/overview
-Demo-1 : VM creation
+
+Demo-1 : Azure VM creation - 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
