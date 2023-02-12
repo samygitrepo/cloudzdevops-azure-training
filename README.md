@@ -91,7 +91,7 @@ DNS Basics : https://cloudzdevops-my.sharepoint.com/:b:/g/personal/support_cloud
 
 Azure VM Architecture : https://learn.microsoft.com/en-us/azure/virtual-machines/overview
 
-Demo-1 : Azure VM creation - 
+Demo-1 : Azure VM creation - https://cloudzdevops-my.sharepoint.com/:b:/g/personal/support_cloudzdevops_onmicrosoft_com/EcG-gCDHm_BJnJYFU3fgkK0BFk4mh2F1PtCIMnsVzOAKtw?e=Q39SpF
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
