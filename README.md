@@ -107,3 +107,19 @@ https://www.rupeshtiwari.com/azure-update-domain-vs-fault-domain/
 Demo-1 : Azure VM Scale set - https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-create-vmss
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+**18/Feb/23**
+
+Azure Availability Options : https://learn.microsoft.com/en-us/azure/virtual-machines/availability
+
+Demo-1 : Azure Availability Set
+
+Azure Virtual Machine Scale Set (VMSS) vs Availability Set
+
+Availability Zone : https://learn.microsoft.com/en-us/azure/virtual-machines/create-portal-availability-zone?tabs=standard
+
+Azure Bastion : https://learn.microsoft.com/en-us/azure/bastion/bastion-overview
+
+Azure Virtual Desktop (AVD) : https://learn.microsoft.com/en-us/azure/virtual-desktop/overview
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
