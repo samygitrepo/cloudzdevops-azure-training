@@ -118,6 +118,10 @@ Azure Virtual Machine Scale Set (VMSS) vs Availability Set
 
 Availability Zone : https://learn.microsoft.com/en-us/azure/virtual-machines/create-portal-availability-zone?tabs=standard
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**19/Feb/23**
+
 Azure Bastion : https://learn.microsoft.com/en-us/azure/bastion/bastion-overview
 
 Azure Virtual Desktop (AVD) : https://learn.microsoft.com/en-us/azure/virtual-desktop/overview
