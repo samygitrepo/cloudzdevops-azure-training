@@ -127,3 +127,18 @@ Azure Bastion : https://learn.microsoft.com/en-us/azure/bastion/bastion-overview
 Azure Virtual Desktop (AVD) : https://learn.microsoft.com/en-us/azure/virtual-desktop/overview
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+**25/Feb/23**
+
+Azure Bastion Demo 
+
+Azure Virtual Desktop (AVD) Demo
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**26/Feb/23**
+
+Azure Automation Account : https://learn.microsoft.com/en-us/azure/automation/overview and it's demo
+VNET - Basics with theory and cover until NSG with demo
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
