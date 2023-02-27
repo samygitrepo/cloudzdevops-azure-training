@@ -139,6 +139,17 @@ Azure Virtual Desktop (AVD) Demo
 **26/Feb/23**
 
 Azure Automation Account : https://learn.microsoft.com/en-us/azure/automation/overview and it's demo
-VNET - Basics with theory and cover until NSG with demo
+VNET - VPN & VPN Gateway
+VNET - NSG Demo with Linux VM
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+**4/Mar/23**
+
+VNET Peering - Demo
+Network Watcher 
+Network Table / User defined routing (UDR)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**5/Mar/23**
