@@ -139,7 +139,9 @@ Azure Virtual Desktop (AVD) Demo
 **26/Feb/23**
 
 Azure Automation Account : https://learn.microsoft.com/en-us/azure/automation/overview and it's demo
+
 VNET - VPN & VPN Gateway
+
 VNET - NSG Demo with Linux VM
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -147,7 +149,9 @@ VNET - NSG Demo with Linux VM
 **4/Mar/23**
 
 VNET Peering - Demo
+
 Network Watcher / Network Topology
+
 Network Table / User defined routing (UDR) - Demo
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -155,7 +159,9 @@ Network Table / User defined routing (UDR) - Demo
 **5/Mar/23**
 
 Application Security Group (ASG) - Demo
+
 Azure Load Balancer - Demo
+
 Azure Application Gateway (AAG) - Demo
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -163,7 +169,9 @@ Azure Application Gateway (AAG) - Demo
 **11/Mar/23**
 
 Azure Front Door (AFD) - Demo
+
 Azure Traffiic Manager (ATM) - Demo
+
 Azure AD Intro
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -171,5 +179,7 @@ Azure AD Intro
 **12/Mar/23**
 
 Azure AD SSPR - Demo
+
 Azure MFA - Demo
+
 Azure Conditional Access - Demo
