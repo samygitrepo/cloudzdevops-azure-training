@@ -172,14 +172,17 @@ Azure Front Door (AFD) - Demo
 
 Azure Traffiic Manager (ATM) - Demo
 
-Azure AD Intro
+Azure AD Intro - https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 **12/Mar/23**
 
 Azure AD SSPR - Demo
+Ref - https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-howitworks & https://learn.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-sspr
 
 Azure MFA - Demo
+Ref - https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks
 
 Azure Conditional Access - Demo
+Ref - https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks
