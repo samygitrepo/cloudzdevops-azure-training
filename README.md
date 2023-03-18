@@ -178,11 +178,58 @@ Azure AD Intro - https://learn.microsoft.com/en-us/azure/active-directory/fundam
 
 **12/Mar/23**
 
-Azure AD SSPR - Demo
+Azure AD SSPR
+
 Ref - https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-sspr-howitworks & https://learn.microsoft.com/en-us/azure/active-directory/authentication/tutorial-enable-sspr
 
-Azure MFA - Demo
+Azure MFA
+
 Ref - https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks
 
-Azure Conditional Access - Demo
-Ref - https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks
+Azure Conditional Access
+
+Ref - https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**18/Mar/23**
+
+Azure AD App Registration - Demo
+
+Ref - https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app
+
+Azure Storage Account - Overview / Demo
+
+Ref - https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal
+
+Azure Storage Explorer Tool
+
+Ref - https://azure.microsoft.com/en-us/products/storage/storage-explorer/
+
+Creating Static Website using Storage Account
+
+Ref - https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**19/Mar/23**
+
+Azure AZCopy
+
+Ref - https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+
+Azure File Share
+
+Ref - https://learn.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-portal?tabs=azure-portal
+
+Azure Storage Sync Service
+
+Ref - https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-extend-servers
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**25/Mar/23**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**26/Mar/23**
