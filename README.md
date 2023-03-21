@@ -230,6 +230,16 @@ Ref - https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-extend
 
 **25/Mar/23**
 
+Azure Backup and Restore : Create VM backup and Restore
+
+Azure Backup Ref : https://learn.microsoft.com/en-us/azure/backup/backup-overview
+Backup Azure VM : https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal
+Azure Recovery Services Vault : https://learn.microsoft.com/en-us/azure/backup/backup-azure-recovery-services-vault-overview
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 **26/Mar/23**
+
+Azure Monitoring - Application Insights, Network Insights, VM Insights
+Azure Dashboard : https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboards
+Kusto Query Language (KQL) : https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
