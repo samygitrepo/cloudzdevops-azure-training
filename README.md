@@ -1,5 +1,13 @@
 # cloudzdevops-azure-training
-                                    ***Training Materials for Azure Cloud***
+                                    **CLOUDZ DEVOPS - Training Materials for Azure Cloud**
+
+**14/Jan/23**
+
+> Cloud Fundamentals
+> Cloud & DevOps - Demand in the IT market
+> Azure Certifications
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 **15/Jan/23**
 
@@ -10,6 +18,7 @@ https://docs.microsoft.com/en-us/powershell/azure/azurerm/install-azurerm-ps?vie
 **Demo-2: Installing Azure PowerShell**
 
 Install Azure CLI on Windows : https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest
+
 Install Azure CLI on Mac : https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-macos?view=azure-cli-latest  
 
 **Demo-3: Using Azure CloudShell**
